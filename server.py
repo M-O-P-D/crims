@@ -1,9 +1,13 @@
 
+
 from flask import Flask, request, render_template
 import json
 import io
 from io import StringIO
 import base64
+
+from dotenv import load_dotenv
+load_dotenv()
 
 from crims import model
 from crims import visualisation
