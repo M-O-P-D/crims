@@ -1,3 +1,5 @@
+# This repo is now archived, development has moved [here](https://github.com/virgesmith/Police-Supply-Demand/)
+
 # CriMS
 
 Policing and Crime supply-demand modelling. *CriMS* is an evolution of **crime-sim-toolkit** <sup>[[6]](#references)</sup> and forms the microsynthesis and microsimulation components of this workflow:
